@@ -1,0 +1,2 @@
+# fajilc
+Daily digest notes
